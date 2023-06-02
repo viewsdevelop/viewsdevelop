@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Louis! 👋
 
-<!--
-**viewsdevelop/viewsdevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Engineer specializing in ReactJS, with a passion for building interactive and engaging web applications.
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front End Development: ReactJS, Redux, JavaScript (ES6), HTML5, CSS3.
+- Back End Basics: NodeJS, Express.
+- Testing: Jest, React Testing Library.
+- Tools: Git, GitHub, npm.
+- Other: Agile methodologies, CI/CD.
+
+## 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/lmmedina/)
+- [Email](viewsdevelop@gmail.com)
+
+## ⚡ Fun fact:
+
+In my spare time, I love making electronic music on Ableton Live. 🎶🎧🎛️📀🎤
+
+---
+
+<div align="center">
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=viewsdevelop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>

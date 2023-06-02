@@ -13,7 +13,6 @@ I'm a Front End Engineer specializing in ReactJS, with a passion for building in
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lmmedina/)
-- [Email](viewsdevelop@gmail.com)
 
 ## ⚡ Fun fact:
 

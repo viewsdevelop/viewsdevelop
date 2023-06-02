@@ -16,7 +16,7 @@ I'm a Front End Engineer specializing in ReactJS, with a passion for building in
 
 ## ⚡ Fun fact:
 
-In my spare time, I love making electronic music on Ableton Live. 🎶🎧🎛️📀🎤
+In my spare time, I love making electronic music on Ableton Live. 🎧 🎛️ 📀 
 
 ---
 

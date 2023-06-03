@@ -14,13 +14,6 @@ As a front-end software engineer specializing in React, I enjoy helping companie
 
 My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a simple yet efficient to-do list application built with React. In this project, I've incorporated features for users to add, delete, and edit their to-do items seamlessly. 
 
-The application is designed with a user-friendly interface and includes a search feature to enhance the user experience, allowing for easy tracking of specific items in the to-do list. 
-
-Moreover, I've ensured that the application is fully responsive to cater to the diverse screen sizes of desktops and mobile devices, thereby reaching a wider audience and providing them with a reliable productivity tool irrespective of their device preference.
-
-Through ToDo+, I've honed my skills in React, explored new libraries and tools, and deepened my understanding of responsive design principles.
-
-
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lmmedina/)

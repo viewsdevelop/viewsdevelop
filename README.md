@@ -8,7 +8,7 @@ As a front-end software engineer specializing in React, I enjoy helping companie
 - Back End Development: NodeJS, Express, Ruby, Ruby on Rails, Python
 - Testing: Jest, React Testing Library
 - Tools: Git, GitHub, npm
-- Other: Agile methodologies, CI/CD
+- Other: Agile methodologies (Kanban), CI/CD
 
 ## 🔭 I’m currently working on ...
 

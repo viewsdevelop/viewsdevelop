@@ -1,6 +1,6 @@
 # Hello, I'm Louis! 👋
 
-I'm a front-end software engineer who enjoys helping companies solve business challenges and optimize results.
+I'm a front-end software engineer who enjoys helping companies solve business challenges and optimize results through future-friendly visual design and clean coding principles.
 
 ## 🛠️ My Skills
 

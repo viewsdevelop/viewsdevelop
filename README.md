@@ -1,14 +1,14 @@
 # Hello, I'm Louis! 👋
 
-I'm a Front End Engineer specializing in ReactJS, with a passion for building interactive and engaging web applications.
+I'm a Front End Engineer specializing in ReactJS with a passion for building interactive and engaging web applications.
 
 ## 🛠️ My Skills
 
-- Front End Development: ReactJS, Redux, JavaScript (ES6), HTML5, CSS3.
-- Back End Basics: NodeJS, Express.
-- Testing: Jest, React Testing Library.
-- Tools: Git, GitHub, npm.
-- Other: Agile methodologies, CI/CD.
+- Front End Development: ReactJS, Redux, JavaScript (ES6), HTML5, CSS3
+- Back End Basics: NodeJS, Express
+- Testing: Jest, React Testing Library
+- Tools: Git, GitHub, npm
+- Other: Agile methodologies, CI/CD
 
 ## 🔭 I’m currently working on ...
 
@@ -16,7 +16,7 @@ My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a simp
 
 The application is designed with a user-friendly interface and includes a search feature to enhance the user experience, allowing for easy tracking of specific items in the to-do list. 
 
-Moreover, I have ensured that the application is fully responsive to cater to the diverse screen sizes of desktops and mobile devices, thereby reaching a wider audience and providing them with a reliable productivity tool irrespective of their device preference.
+Moreover, I've ensured that the application is fully responsive to cater to the diverse screen sizes of desktops and mobile devices, thereby reaching a wider audience and providing them with a reliable productivity tool irrespective of their device preference.
 
 Through ToDo+, I've honed my skills in React, explored new libraries and tools, and deepened my understanding of responsive design principles.
 
@@ -27,7 +27,7 @@ Through ToDo+, I've honed my skills in React, explored new libraries and tools, 
 
 ## ⚡ Fun fact:
 
-In my spare time, I love making electronic music on Ableton Live. 🎧 🎛️ 📀 
+In my spare time, I ❤️ making electronic music on Ableton Live. 🎧 🎛️ 📀 
 
 ---
 

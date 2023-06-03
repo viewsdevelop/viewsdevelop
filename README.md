@@ -26,6 +26,6 @@ In my spare time, I ❤️ making electronic music on Ableton Live. 🎧 🎛️
 
 <div align="center">
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=viewsdevelop&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=viewsdevelop&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

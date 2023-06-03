@@ -1,6 +1,6 @@
 # Hello, I'm Louis! 👋
 
-I'm a Front End Engineer specializing in ReactJS with a passion for building interactive and engaging web applications.
+I'm a front end software engineer who enjoys helping companies solve business challenges and optimize results. 
 
 ## 🛠️ My Skills
 

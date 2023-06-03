@@ -12,7 +12,7 @@ As a front-end software engineer specializing in React, I enjoy helping companie
 
 ## 🔭 I’m currently working on ...
 
-My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a simple yet efficient to-do list application built with React. In this project, I've incorporated features for users to add, delete, and edit their to-do items seamlessly. 
+My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a to-do list application built with React, Material UI, and Firebase. It enables users to add, delete, and edit tasks with ease and efficiency.
 
 ## 📫 How to reach me:
 

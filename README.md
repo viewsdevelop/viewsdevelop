@@ -1,6 +1,6 @@
 # Hello, I'm Louis! 👋
 
-I'm a front end software engineer who enjoys helping companies solve business challenges and optimize results. 
+I'm a front end software engineer specializing in React who enjoys helping companies solve business challenges and optimize results. 
 
 ## 🛠️ My Skills
 

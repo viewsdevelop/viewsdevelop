@@ -5,7 +5,7 @@ I'm a front-end software engineer who enjoys helping companies solve business ch
 ## 🛠️ My Skills
 
 - Front End Development: ReactJS, Redux, JavaScript (ES6), HTML5, CSS3
-- Back End Development: NodeJS, Express, Ruby, Ruby on Rails, Python
+- Back End Development: NodeJS, Express, Ruby, Ruby on Rails, Python, Flask
 - Testing: Jest, React Testing Library
 - Tools: Git, GitHub, npm
 - Other: Agile methodologies (Kanban), CI/CD

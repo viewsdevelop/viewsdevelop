@@ -12,7 +12,7 @@ I'm a front-end software engineer who enjoys helping companies solve business ch
 
 ## 🔭 I’m currently working on ...
 
-My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a user-friendly to-do list application built with React, Material UI, and Firebase. This application not only enables users to add, delete, and edit tasks with ease and efficiency, but also features a live search bar that allows for real-time filtering through tasks.
+My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a user-friendly to-do list application built with React, Material UI, and Firebase. This application leverages the power of Firestore to provide seamless persistence of CRUD actions on ListItems. Additionally, ToDo+ features a live search bar that enables real-time filtering through tasks, making it even more convenient for users to find and manage their to-do items.
 
 ## 📫 How to reach me:
 

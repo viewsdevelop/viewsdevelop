@@ -23,9 +23,3 @@ My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a user
 In my spare time, I ❤️ making electronic music on Ableton Live. 🎧  🎛️  📀 
 
 ---
-
-<div align="center">
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=viewsdevelop&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>

@@ -21,5 +21,3 @@ My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a user
 ## ⚡ Fun fact:
 
 In my spare time, I ❤️ making electronic music on Ableton Live. 🎧  🎛️  📀 
-
----

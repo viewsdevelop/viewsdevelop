@@ -1,6 +1,6 @@
 # Hello, I'm Louis! 👋
 
-Experienced front-end software engineer with a passion for innovation and solving business challenges through future-friendly visual design and clean coding principles. Skilled in React, HTML5, CSS3, and JavaScript, with a background in teaching full-stack web development. Adept at collaborating with cross-functional teams and delivering exceptional user experiences.
+Experienced full stack software engineer with a passion for innovation and solving business challenges through future-friendly visual design and clean coding principles. Skilled in React, HTML5, CSS3, and JavaScript, with a background in teaching full-stack web development. Adept at collaborating with cross-functional teams and delivering exceptional user experiences.
 
 ## 🛠️ My Skills
 

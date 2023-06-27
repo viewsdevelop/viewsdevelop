@@ -1,6 +1,6 @@
 # Hello, I'm Louis! 👋
 
-Experienced full stack software engineer with a passion for innovation and solving business challenges through future-friendly visual design and clean coding principles. Skilled in React, HTML5, CSS3, and JavaScript, with a background in teaching full-stack web development. Adept at collaborating with cross-functional teams and delivering exceptional user experiences.
+I'm a full stack software engineer specializing in future-friendly visual design and clean coding principles. With a background of over eight years of experience in teaching full-stack web development concepts and working on remote software engineering teams, I'm passionate about helping companies innovate and solve business challenges through user-centric applications.
 
 ## 🛠️ My Skills
 

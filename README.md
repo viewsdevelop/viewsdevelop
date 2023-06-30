@@ -1,6 +1,6 @@
 # Hello, I'm Louis! 👋
 
-I'm a full stack software engineer specializing in future-friendly visual design and clean coding principles. With a background of over eight years of experience in teaching full-stack web development concepts and working on remote software engineering teams, I'm passionate about helping companies innovate and solve business challenges through user-centric applications.
+I'm a full stack software engineer specializing in future-friendly visual design and clean coding principles. With a background of over eight years of experience in teaching full stack web development concepts and working on remote software engineering teams, I'm passionate about helping companies innovate and solve business challenges through user-centric applications.
 
 ## 🛠️ My Skills
 

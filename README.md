@@ -8,7 +8,7 @@ I'm a full stack software engineer specializing in future-friendly visual design
 - Back End Development: NodeJS, Express, Ruby, Ruby on Rails, Python, Flask
 - Testing: Jest, React Testing Library
 - Tools: Git, GitHub, npm
-- Other: Agile methodologies (Kanban), CI/CD
+- Other: Agile methodologies (Kanban), CI/CD, UI/UX
 
 ## 🔭 I’m currently working on ...
 

@@ -1,18 +1,16 @@
 # Hello, I'm Louis! 👋
 
-I'm a full stack software engineer specializing in future-friendly visual design and clean coding principles. I'm passionate about helping companies innovate and solve business challenges through user-centric applications.
+Senior Software Engineer with over 10 years of experience designing and scaling intelligent, cloud-native systems across AI, SaaS, and enterprise platforms. I’m fluent in Python (FastAPI, LangChain, TensorFlow) and JavaScript frameworks (Node.js, React, Next.js, Angular, Vue), with strong grounding in PHP and Ruby ecosystems like Laravel, Magento, and Rails. I specialize in building high-availability, service-oriented systems that blend machine learning pipelines, modular microservices, and multi-cloud infrastructure. My focus is on creating architectures that are scalable, maintainable, and aligned with business goals. Having led both new product builds and complex legacy migrations, I bring a practical, systems-level perspective to every project, balancing innovation with reliability. I thrive at the intersection of technology and strategy, helping teams deliver software that’s both intelligent and built to last.
 
 ## 🛠️ My Skills
 
-- Front End Development: ReactJS, Redux, JavaScript (ES6), HTML5, CSS3
-- Back End Development: NodeJS, Express, Ruby, Ruby on Rails, Python, Flask
-- Testing: Jest, React Testing Library
-- Tools: Git, GitHub, npm
-- Other: Agile methodologies (Kanban), CI/CD, UI/UX
-
-## 🔭 I’m currently working on ...
-
-My recent project is [ToDo+](https://viewsdevelop.github.io/to-do-plus/), a user-friendly task management application built with React, Material UI, and Firebase / Firestore. A live search bar enables real-time filtering, making it even more convenient for users to find and manage their tasks.
+**Programming & Frameworks:** Python, FastAPI, Django, Flask, Celery, Pandas, NumPy JavaScript (ES6+), TypeScript, React.js, Next.js, Angular, Vue.js PHP, Laravel, Magento, Symfony Ruby on Rails, HTML5, CSS3, Tailwind, Bootstrap REST & GraphQL API Design
+**Cloud & DevOps:** AWS (ECS, Lambda, S3, RDS, CloudFront, CloudWatch) GCP (Cloud Run, BigQuery, IAM), Docker, Terraform, GitHub Actions CI/CD Pipelines, Blue-Green Deployments, Infrastructure as Code (IaC), Containerization & Microservices Architecture, Observability (Prometheus, Grafana)
+**AI & Data Engineering:** LangChain, OpenAI API, Hugging Face, TensorFlow, PyTorch, scikit-learn NLP & Semantic Search (pgvector, Embeddings), ETL Pipelines, Airflow Orchestration, PostgreSQL, MySQL, Redis, DynamoDB, MongoDB, Data Modeling, Query Optimization, Real-Time Analytics
+**Integrations & APIs:** Shopify, Magento, Stripe, PayPal, Twilio, SendGrid, CRM & Marketing Platforms (HubSpot, Salesforce), RESTful & GraphQL APIs Webhooks, OAuth2, JWT, SSO, Middleware Development & System Integration, Third-Party Data Feeds, API Rate Optimization
+**Architecture & Patterns:** Service-Oriented Architecture (SOA), Domain-Driven Design (DDD), EventDriven Systems, Microservices & Modular Monoliths, API Gateway & Caching Strategy Performance Optimization & Load Balancing, Secure Multi-Tenant SaaS Architecture, SDLC Governance & Release Management
+**Tools & Platforms:** Git, GitHub, Bitbucket, Jira, Asana, Trello, Confluence VS Code, PyCharm, Postman, pgAdmin, Figma, Adobe XD Slack API, Google Workspace, Notion Linux, Bash Scripting, Shell Automation
+**Soft Skills & Leadership:** Team Leadership & Mentorship, Strategic Architecture Planning, Analytical & Critical Problem Solving, Clear Communication & Documentation, Cross-Functional Collaboration, Agile & Scrum Practices, Product-Oriented Engineering Mindset
 
 ## 📫 How to reach me:
 

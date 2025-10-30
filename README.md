@@ -28,6 +28,8 @@
 
 - [LinkedIn](https://www.linkedin.com/in/lmmedina/)
 
+![viewsdevelop's GitHub stats](https://github-readme-stats.vercel.app/api?username=viewsdevelop&include_all_commits=true&count_private=true&theme=cobalt)
+
 ## ⚡ Fun fact:
 
 In my spare time, I enjoy making electronic music on Ableton Live. 🎧  🎛️  📀 
